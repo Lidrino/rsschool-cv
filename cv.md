@@ -23,5 +23,19 @@ I am 24 years old, currently I work as a system administrator, but I like web de
 
 ```javascript
 function multiply(a, b){
- return a * b
-} ```
+ return a * b;
+} 
+```
+
+## Experience
+
+I have no developer experience.
+
+## Education
+
+* GeekBrains - Front-End developer.
+
+## Languages
+
+* Russian - native speaker.
+* English - A1 (A2 in proces)
