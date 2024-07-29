@@ -8,9 +8,40 @@
     padding: 0 40px;
 }
 
-.header {
+.not-only {
     height: 908px;
     background: url(noise_lines_transparent@2X),radial-gradient(234.05% 111.80% at 0% 0%,rgb(91, 72, 58),rgb(38, 36, 37) 100%),rgb(33, 31, 32);
+}
+
+.header {
+}
+.header-container {
+}
+.header-logo {
+}
+.header-title {
+}
+.header-subtitle {
+}
+.header-nav {
+}
+.nav-list {
+}
+.nav-item {
+}
+.nav-item-link {
+}
+.not-only-content {
+}
+.not-only-content-conainer {
+}
+.not-only-content-title {
+}
+.not-only-content-text {
+}
+.not-only-content-btn {
+}
+.not-only-img {
 }
 
 .header-container {
@@ -65,3 +96,4 @@
     text-decoration: none;
     color: #CDCDCD;
 }
+
